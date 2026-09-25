@@ -1,0 +1,3 @@
+module.exports=[12997,a=>{a.v({className:"montserrat_264dfca3-module__Tp_m0a__className"})},33290,a=>{"use strict";var b=a.i(7997),c=a.i(12997);let d={className:c.default.className,style:{fontFamily:"'Montserrat', 'Montserrat Fallback'",fontStyle:"normal"}};null!=c.default.variable&&(d.variable=c.default.variable),a.s(["default",0,function({children:a}){return(0,b.jsx)("html",{lang:"en",children:(0,b.jsx)("body",{className:d.className,children:a})})},"metadata",0,{title:"Alpha Design — Interior Architecture & Home Design",description:"Alpha Design creates refined residential interiors with calm materials, precise detail, and modern architectural clarity."}],33290)},70864,function(a){a.n(a.i(33290))}];
+
+//# sourceMappingURL=%5Broot-of-the-server%5D__0yp0nuo._.js.map
